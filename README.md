@@ -1,4 +1,4 @@
-# Thank You for having me! 👋
+#👋
 My name is Anaiah and I'm currently an undergraduate student majoring in Computer Science!
 I'm eager to improve my knowledge and skills of programming and machine learning as I continue studying towards my bachelor's degree. I'm excited to improve my skills and collaborate with others here on GitHub!
 
