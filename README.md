@@ -53,3 +53,4 @@ Lab assignments from INT 2220: Computer Science II — covering binary conversio
 ## 📫 Let's Connect
 
 I'm always open to connecting with other students, developers, and anyone working on meaningful tech. Feel free to reach out!
+https://www.linkedin.com/in/anaiah-apple-635130311 
