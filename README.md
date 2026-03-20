@@ -29,7 +29,7 @@ I'm early in my journey and being intentional about it. Here's what I'm actively
 | CS Fundamentals | Data Structures · OOP · Algorithms |
 | Productivity Tools | Microsoft Office Suite · Google Workspace |
 
-Every project here is me learning in public — not everything is polished, but it's all intentional.
+Every project here is me learning in public! Intentionality
 
 ---
 
