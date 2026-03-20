@@ -53,4 +53,4 @@ I play guitar and piano, dance, and keep coming back to photography. A lot of wh
 
 ## Let's Connect
 
-I'm always open to connecting with other students, developers, and anyone building something that matters. Feel free to reach out!
+I'm always open to connecting with other students, developers, and anyone building something that matters. Feel free to reach out! https://www.linkedin.com/in/anaiah-apple-635130311/ 
