@@ -1,56 +1,56 @@
-# Hi, I'm Anaiah 👋🏽
+# Hi, I'm Anaiah!
 
-I'm an undergraduate Computer Science student with a passion for building technology that's **accessible, impactful, and human-centered**. Whether I'm writing code, running my student success business, or getting involved on campus, I'm always working toward something meaningful.
+I'm a Computer Science undergraduate who believes technology is most powerful when it's built for everyone — including the people who are usually an afterthought.
 
----
-
-## 🎯 What I'm About
-
-- 🎓 Pursuing a B.S. in Computer Science with interests in **Software Development**, **Machine Learning**, and **Biomedical Computation**
-- 💼 Founder of a **student success business** focused on making financial, academic, career, and tech resources accessible to all students
-- 📱 Currently building **StudentSync** — an Android app that centralizes campus events, peer tutoring, and resources for college students
-- 🌱 Actively involved on campus in leadership and community-focused initiatives
-- 🔭 Long-term goal: become a **Software Engineer** innovating accessible technology for people of all backgrounds
+My work sits at the intersection of software development, student equity, and community. I'm learning how to build things that solve real problems, and most of what's in my repos is me doing exactly that.
 
 ---
 
-## 🛠️ Currently Building
+## About Me
+
+- Undergrad CS student with growing interests in Software Development, Machine Learning, and Biomedical Computation
+- I run a student success business centered on connecting students with resources they didn't know they had — financial, academic, career, and tech
+- Currently building StudentSync, an Android app designed to help college students (especially commuters and first-year students) find campus events, peer tutors, and support services in one place
+- Involved in campus leadership and community initiatives outside of class
+- Long-term goal: become a Software Engineer focused on building accessible, inclusive technology
+
+---
+
+## What I'm Building With
+
+I'm early in my journey and being intentional about it. Here's what I'm actively working with:
 
 | Area | Tools & Technologies |
 |---|---|
-| Languages | Java · Python *(in progress)* |
-| Mobile Development | Android Studio · Kotlin · Java |
+| Languages | Java · Python (in progress) |
+| Mobile Development | Android Studio · Java · Kotlin |
 | Backend & Cloud | Firebase Firestore · Firebase Auth |
-| APIs & SDKs | Google Maps Android SDK |
+| APIs | Google Maps Android SDK |
 | CS Fundamentals | Data Structures · OOP · Algorithms |
-| Productivity | Microsoft Office Suite · Google Workspace · Apple iOS |
+| Productivity Tools | Microsoft Office Suite · Google Workspace |
 
-> I'm early in my journey and building intentionally — each project is a step toward the engineer I'm becoming.
+Every project here is me learning in public — not everything is polished, but it's all intentional.
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 📱 [StudentSync](https://github.com/YOUR_USERNAME/StudentSync)
-An Android mobile app that helps community college students discover campus events, find peer tutoring, and access resources — all in one place.
+**[StudentSync](https://github.com/YOUR_USERNAME/StudentSync)**
+An Android app for community college students to discover campus events, connect with peer tutors, and access resources without digging through five different platforms. Built for my Mobile App Development course and designed like something I'd actually want to use.
 `Java` `Android` `Firebase` `Google Maps SDK`
 
-### 🎓 [CS II Lab Portfolio](https://github.com/YOUR_USERNAME/cs2-labs)
-Lab assignments from INT 2220: Computer Science II — covering binary conversion, polynomial addition with linked lists, stack-based data processing, and more.
+**[CS II Lab Portfolio](https://github.com/YOUR_USERNAME/cs2-labs)**
+Coursework from INT 2220: Computer Science II — covering binary conversion, polynomial addition with linked lists, stack-based data processing, exception handling, and more.
 `Java` `Data Structures` `OOP`
 
 ---
 
-## ⚡ Beyond the Code
+## Outside of CS
 
-- 🎸 I play guitar and started bass guitar
-- 📸 I love photography
-- 💃🏽 I dance
-- 🤝 I'm passionate about student equity and making higher ed resources less overwhelming for first-gen and commuter students
+I play guitar and piano, dance, and keep coming back to photography. A lot of what drives my work in tech also comes from time spent thinking about why navigating college is harder than it needs to be for so many students.
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
-I'm always open to connecting with other students, developers, and anyone working on meaningful tech. Feel free to reach out!
-https://www.linkedin.com/in/anaiah-apple-635130311 
+I'm always open to connecting with other students, developers, and anyone building something that matters. Feel free to reach out!
