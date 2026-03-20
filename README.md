@@ -1,16 +1,55 @@
-#👋
-My name is Anaiah and I'm currently an undergraduate student majoring in Computer Science!
-I'm eager to improve my knowledge and skills of programming and machine learning as I continue studying towards my bachelor's degree. I'm excited to improve my skills and collaborate with others here on GitHub!
+# Hi, I'm Anaiah 👋🏽
 
-## About Me
-### Skills📚:
-I'm currently learning Python and Java, as well as developing many soft skills necessary for my career! I'm skilled in Microsoft applications such as Word, outlook, Excel, and Office. I'm also skilled in Apple IOS and  Google Applications similar to Microsoft. While working towards my academic goal, I'm looking for help with finding resources and certificates to help advance to the next level.
+I'm an undergraduate Computer Science student with a passion for building technology that's **accessible, impactful, and human-centered**. Whether I'm writing code, running my student success business, or getting involved on campus, I'm always working toward something meaningful.
 
-### Fun Facts about me!⚡: 
-🎸I play both guitar and piano, I dance, and I love photography!📸
+---
 
-### Career Goal 👩🏽‍🎓:
-I aspire to become a software engineer, working towards innovating accessible technology for all backgrounds. While working towards that goal of mine, I'm developing a website to bring accessible resources for all students, whether it's financial, career, academic, or tech-advice!
-<!--
+## 🎯 What I'm About
 
--->
+- 🎓 Pursuing a B.S. in Computer Science with interests in **Software Development**, **Machine Learning**, and **Biomedical Computation**
+- 💼 Founder of a **student success business** focused on making financial, academic, career, and tech resources accessible to all students
+- 📱 Currently building **StudentSync** — an Android app that centralizes campus events, peer tutoring, and resources for college students
+- 🌱 Actively involved on campus in leadership and community-focused initiatives
+- 🔭 Long-term goal: become a **Software Engineer** innovating accessible technology for people of all backgrounds
+
+---
+
+## 🛠️ Currently Building
+
+| Area | Tools & Technologies |
+|---|---|
+| Languages | Java · Python *(in progress)* |
+| Mobile Development | Android Studio · Kotlin · Java |
+| Backend & Cloud | Firebase Firestore · Firebase Auth |
+| APIs & SDKs | Google Maps Android SDK |
+| CS Fundamentals | Data Structures · OOP · Algorithms |
+| Productivity | Microsoft Office Suite · Google Workspace · Apple iOS |
+
+> I'm early in my journey and building intentionally — each project is a step toward the engineer I'm becoming.
+
+---
+
+## 📂 Featured Projects
+
+### 📱 [StudentSync](https://github.com/YOUR_USERNAME/StudentSync)
+An Android mobile app that helps community college students discover campus events, find peer tutoring, and access resources — all in one place.
+`Java` `Android` `Firebase` `Google Maps SDK`
+
+### 🎓 [CS II Lab Portfolio](https://github.com/YOUR_USERNAME/cs2-labs)
+Lab assignments from INT 2220: Computer Science II — covering binary conversion, polynomial addition with linked lists, stack-based data processing, and more.
+`Java` `Data Structures` `OOP`
+
+---
+
+## ⚡ Beyond the Code
+
+- 🎸 I play guitar and started bass guitar
+- 📸 I love photography
+- 💃🏽 I dance
+- 🤝 I'm passionate about student equity and making higher ed resources less overwhelming for first-gen and commuter students
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to connecting with other students, developers, and anyone working on meaningful tech. Feel free to reach out!
