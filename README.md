@@ -23,7 +23,7 @@ I'm early in my journey and being intentional about it. Here's what I'm actively
 | Area | Tools & Technologies |
 |---|---|
 | Languages | Java · Python (in progress) |
-| Mobile Development | Android Studio · Java · Kotlin |
+| Mobile Development | Android Studio · Java |
 | Backend & Cloud | Firebase Firestore · Firebase Auth |
 | APIs | Google Maps Android SDK |
 | CS Fundamentals | Data Structures · OOP · Algorithms |
